@@ -6,7 +6,7 @@ if status_ok then
 	config.setup({
 		transparent = true,
 		sidebars = { "qf", "vista_kind" },
-    floats = {"packer", "terminal"},
+		floats = { "packer", "terminal" },
 		styles = {
 			sidebars = "transparent", -- style for sidebars, see below
 			floats = "dark", -- style for floating windows
